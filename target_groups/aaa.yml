@@ -1,0 +1,6 @@
+type: target-group
+name: aaa
+conditions:
+  - operator: semver-lt
+    property: rox.app_release
+    operand: '3'
