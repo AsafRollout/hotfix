@@ -3,4 +3,4 @@
 type: experiment
 name: flag reg
 flag: a.flagReg
-value: false
+value: true
