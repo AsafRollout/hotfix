@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://qax.rollout.io/ex/5c9379fd4561b92014ff23b6
+type: experiment
+name: new flag
+flag: newFlag
+value: false
